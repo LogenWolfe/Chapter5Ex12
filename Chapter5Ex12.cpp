@@ -1,5 +1,9 @@
-// Chapter5Ex12.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// Name: Logen N. Wolfe
+// Date: 10/28/26
+// Program: Chapter 5 Exercise 12
+// Description: Random number guessing game! It generates a random number between 1 - 100, then asks the user for their guess!
+// It keeps looping, giving then "too high" or "too low" until they guess the right answer.
+
 
 #include <iostream>
 #include <ctime>
